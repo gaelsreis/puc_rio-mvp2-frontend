@@ -1,0 +1,215 @@
+{   "entrada": [
+        {
+            "id": 1,
+            "title": "Abará",
+            "description": "bolinho de feijão-fradinho moído cozido em banho-maria embrulhado em folha de bananeira. É um prato típico da culinária africana e da cozinha baiana. Também faz parte da comida ritual do candomblé.",
+            "price": 15.00,
+            "rating": 4.8,
+            "brand": "Bahia",
+            "category": "entrada",
+            "image": ["https://i.pinimg.com/736x/bc/b0/04/bcb0047c12d945c5be0f9f3f20af00f8.jpg"]
+        },
+        {
+            "id": 2,
+            "title": "Acarajé",
+            "description": "O acarajé dos Iorubás da África Ocidental (Togo, Benim, Nigéria, Camarões), que corresponde à iguaria consumida no Brasil, é semelhante ao falafel árabe do Oriente Médio. Os árabes levaram essa iguaria para a África em diversas incursões entre os séculos VII e XIX. As favas secas e grão-de-bico do falafel foram substituídos pelo feijão-fradinho na África. Durante o comércio atlântico de escravos, o acarajé foi trazido ao Brasil pelas pessoas escravizadas. Na África, na língua iorubá, é chamado de àkàrà, que significa “bola de fogo”, enquanto que je possui o significado de “comer”.",
+            "price": 7.00,
+            "rating": 4.8,
+            "brand": "Bahia",
+            "category": "entrada",
+            "image": ["https://www.receiteria.com.br/wp-content/uploads/receita-de-acaraje-1.jpg"]
+        },
+        {
+            "id": 3,
+            "title": "Bolinho de aipim",
+            "description": "Meaipe, Guarapari-ES, 12 de outubro: Dia do Bolinho de Aipim. A receita começou a ser feita por sua mãe, a famosa Dona Zezé, que veio a falecer em 2015. Há 35 anos a família vende os bolinhos de aipim.",
+            "price": 33.00,
+            "rating": 4.8,
+            "brand": "Espirito Santo",
+            "category": "entrada",
+            "image": ["http://3.bp.blogspot.com/-t6BA-Nig0Yg/UQhkMZCN0rI/AAAAAAAAQac/wWrXfISNXtk/s1600/bolinho-de-aipim-recheado.JPG"]
+        },
+        {
+            "id": 4,
+            "title": "Caldo de mocotó",
+            "description": "No Rio de Janeiro, era servido como primeira refeição do dia. A palavra deriva de 'mukoto', originária do quimbundo e, neste caso, significa pata de bovino ou pata de boi (sem o casco).",
+            "price": 27.00,
+            "rating": 4.8,
+            "brand": "Rio de Janeiro",
+            "category": "entrada",
+            "image": ["https://www.nidelins.com.br/wp-content/uploads/2019/03/sopa-arapiraca-2.jpeg"]
+        }
+    ],
+
+    "refeicao": [
+        {
+            "id": 13,
+            "title": "Arroz carreteiro",
+            "description": "Surgiu quando os carreteiros (transportadores de cargas) que atravessavam o sul do Brasil, no século XIX, em carretas puxadas por bois coziam, em panela de ferro, uma mistura de charque picada (guisado) com arroz. Havia a necessidade de um prato de preparo rápido e que não estragasse com facilidade. Nas regiões Centro-Oeste e Nordeste do Brasil, é também conhecido como maria-isabel, e preparado com carne de sol.",
+            "price": 20.00,
+            "rating": 4.5,
+            "brand": "Sul",
+            "category": "refeicao",
+            "image": ["https://claudia.abril.com.br/wp-content/uploads/2016/10/arroz-de-carreteiro_0.jpg"]
+        },
+        {
+            "id": 14,
+            "title": "Barreado",
+            "description": "É um prato típico do litoral paranaense. Sua origem é açoriana de um ritual de mais de 300 anos ainda seguido no preparo do prato. A origem é atribuída aos portugueses que vieram para o litoral do Paraná no século XVIII. Os registros antigos indicam a vila de Guaraqueçaba como a disseminadora da receita.",
+            "price": 25.00,
+            "rating": 4.8,
+            "brand": "Paraná",
+            "category": "refeicao",
+            "image": ["https://www.receiteria.com.br/wp-content/uploads/receitas-de-barreado.jpg"]
+        },
+        {
+            "id": 15,
+            "title": "Bobó de camarão",
+            "description": "“Bobó” é oriundo do termo fom bovô. É um prato da culinária afro-brasileira. É servido acompanhado de arroz branco, mas também pode ser servido com pirão.",
+            "price": 31.00,
+            "rating": 4.8,
+            "brand": "Espirito Santo",
+            "category": "refeicao",
+            "image": ["https://www.brasilcultura.com.br/wp-content/uploads/2019/08/bobo-camarao.jpg"]
+        },
+        {
+            "id": 16,
+            "title": "Tacacá",
+            "description": "Prato típico da Região Amazônica de origem indígena. Ao que tudo indica, o prato é uma variação do mani poi, uma sopa apreciada pelos indígenas, muito antes da chegada dos europeus na região.",
+            "price": 15.00,
+            "rating": 4.8,
+            "brand": "Amazonas",
+            "category": "refeicao",
+            "image": ["https://amazonasatual.com.br/wp-content/uploads/2019/03/FOTO.104-e1553731699336.jpg"]
+        }
+    ],
+
+    "lanche": [
+        {
+            "id": 21,
+            "title": "Bauru",
+            "description": "Foi batizado com a alcunha de seu criador, que recebeu este apelido em referência à cidade em que nasceu. Casimiro Pinto Neto, que era estudante de Direito e frequentava o tradicional bar Ponto Chic (localizado no Largo do Paiçandu, na cidade de São Paulo), em uma noite do ano de 1937, resolveu criar um prato novo após ler o livreto Livro das Mamãezinhas, escrito por Wladimir de Toledo Piza. Com as dicas do livreto, orientou o chapeiro do local a produzir o sanduíche.",
+            "price": 33.00,
+            "rating": 4.8,
+            "brand": "São Paulo",
+            "category": "lanche",
+            "image": ["http://www.saopauloantiga.com.br/wp-content/uploads/2016/09/sanduiche-bauru.jpg"]
+        },
+        {
+            "id": 22,
+            "title": "Beirute",
+            "description": "A receita original criada em 1951 por um dos sócios (o imigrante libanês Farer Sader) do restaurante Bambi na Alameda Santos (São Paulo).",
+            "price": 35.00,
+            "rating": 4.8,
+            "brand": "São Paulo",
+            "category": "lanche",
+            "image": ["https://www.guiadasemana.com.br/contentFiles/image/2020/04/FEA/galeria/65356_w840h525_1587909577shutterstock-399139279.jpg"]
+        },
+        {
+            "id": 23,
+            "title": "Mortadela",
+            "description": "Do Mercado Municipal de São Paulo.",
+            "price": 17.50,
+            "rating": 4.8,
+            "brand": "São Paulo",
+            "category": "lanche",
+            "image": ["https://diariodoturismo.com.br/wp-content/uploads/2020/09/Mortadela-Brasil-Sanduiche-9-2020-696x466.jpg"]
+        },
+        {
+            "id": 24,
+            "title": "Xis",
+            "description": "Sanduíche muito popular no Rio Grande do Sul.",
+            "price": 20.00,
+            "rating": 4.8,
+            "brand": "Rio Grande do Sul",
+            "category": "lanche",
+            "image": ["https://i.pinimg.com/originals/a0/f6/f3/a0f6f39685bfe2e2b74fd95d783dec1e.jpg"]
+        }
+    ],
+
+    "sobremesa": [
+        {
+            "id": 31,
+            "title": "Cartola",
+            "description": "É uma das mais tradicionais sobremesas pernambucanas. Tem origem nas casas-grandes dos engenhos. Lei 13.751, de abril de 2009: Patrimônio Imaterial de Pernambuco.",
+            "price": 16.80,
+            "rating": 4.8,
+            "brand": "Pernambuco",
+            "category": "sobremesa",
+            "image": ["https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-rQPlnV9Fhpo%2FUNRMOJVrHpI%2FAAAAAAAATJw%2FGQ-CS6KJbf8%2Fs1600%2Fpreeditadas0171-450x301.jpg&f=1&nofb=1&ipt=e389bb8cf9efd6b3bc89935b1d2b4f50455ec2b1577863171d13b3711988f6dd&ipo=images"]
+        },
+        {
+            "id": 32,
+            "title": "Bricelet",
+            "description": "Biscoito fino produzido em São Cristóvão-SE, é oficialmente Patrimônio Cultural Imaterial do Estado, pela Lei 8.931/2021. Tem origem Suíça e é herança das freiras beneditinas que viveram enclausuradas na antiga Santa Casa de Misericórdia, construída no estilo Barroco, no início do século XVIII e que funcionou primeiro como um Hospital de Caridade.",
+            "price": 15.00,
+            "rating": 4.8,
+            "brand": "Pernambuco",
+            "category": "sobremesa",
+            "image": ["https://1.bp.blogspot.com/-zqRcH7EtpQI/XsV2PU4qRZI/AAAAAAAA5So/JAofet8tNXEp5Dgaw1gmqvyGUmrnjftCACLcBGAsYHQ/s1600/99245220_632064144186572_9020930295251075072_n%2B%25281%2529.jpg"]
+        },
+        {
+            "id": 33,
+            "title": "Bolinho de estudante",
+            "description": "É típico da culinária baiana, feita a partir de tapioca granulada, coco ralado, açúcar e canela. Acredita-se que o nome provém por ser barato e popular entre os estudantes. Tal bolinho é encontrado nos tabuleiros das baianas do acarajé.",
+            "price": 9.00,
+            "rating": 4.8,
+            "brand": "Bahia",
+            "category": "sobremesa",
+            "image": ["https://tipicas.com.br/wp-content/uploads/2012/08/bolinho-de-estudante-1024x707.jpg"]
+        },
+        {
+            "id": 34,
+            "title": "Bolo de rolo",
+            "description": "Sua origem está na adaptação do bolo português Colchão de Noiva, uma espécie de pão de ló enrolado em camadas grossas como um rocambole, com recheio de amêndoas. Ao chegarem aqui, os portugueses passaram a trocar o recheio pela goiaba, fruta abundante na Zona da Mata, sempre dosada com muito açúcar dos engenhos da região.",
+            "price": 5.00,
+            "rating": 4.8,
+            "brand": "Pernambuco",
+            "category": "sobremesa",
+            "image": ["https://amp.receitadevovo.com.br/wp-content/uploads/2020/10/bolo-de-rolo-scaled-1.jpg"]
+        }
+    ],
+    
+    "bebida": [
+        {
+            "id": 41,
+            "title": "Cachaça",
+            "description": "Aguardente de cana-de-açúcar produzida no Brasil, obtida através da fermentação e destilação do caldo de cana ou do melaço. O teor alcoólico deverá estar entre 38º-48º",
+            "price": 15.00,
+            "rating": 4.8,
+            "brand": "Minas Gerais",
+            "category": "bebida",
+            "image": ["https://radiopeaobrasil.com.br/wp-content/uploads/2018/09/naom_5953d43163e39.jpg"]
+        },
+        {
+            "id": 42,
+            "title": "Caipirinha",
+            "description": "É um coquetel de origem paulista, feita com cachaça, limão, açúcar e gelo. Variações incluem a caipiroska (vodka) e a caipiríssima (rum).",
+            "price": 22.00,
+            "rating": 4.8,
+            "brand": "São Paulo",
+            "category": "bebida",
+            "image": ["https://cocktailbart.de/wp-content/uploads/2015/11/Fotolia_15208552_Subscription_Monthly_M.jpg"]
+        },
+        {
+            "id": 43,
+            "title": "Capeta",
+            "description": "Criado em 1984 pelo baiano Antonio Carlos, em Porto Seguro - BA.",
+            "price": 9.00,
+            "rating": 4.8,
+            "brand": "São Paulo",
+            "category": "bebida",
+            "image": ["https://3.bp.blogspot.com/-3d8lYkKYSTQ/W7gcb4tjXhI/AAAAAAAAAG8/xjeOK0ljXXQZ8GgwuP_W_v07wczd38-WACLcBGAs/s400/1.jpg"]
+        },
+        {
+            "id": 44,
+            "title": "Rabo de Galo",
+            "description": "Traçado, Rabo de Galo ou Cocktail, de cock, galo e tail, rabo. Origem em São Paulo.",
+            "price": 13.00,
+            "rating": 4.8,
+            "brand": "São Paulo",
+            "category": "bebida",
+            "image": ["https://www.papodebar.com/wp-content/uploads/2018/11/shot-rabo-de-galo.jpg"]
+        }
+    ]
+}
