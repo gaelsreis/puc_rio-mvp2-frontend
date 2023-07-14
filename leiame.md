@@ -14,7 +14,7 @@ Aluno: [Gabriel dos Santos Reis](https://github.com/gaelsreis).
 
 ## Front-End
 
-O Produto Mínimo Viável / *Minimum Viable Product (MVP)* envolve utilizar Componentização com React e os recursos hooks, props e states. Simular chamadas a um servidor, fazendo a leitura de um JSON*. Foram utilizados HTML, CSS, JavaScript, Node.js e React.js.
+O Produto Mínimo Viável / *Minimum Viable Product (MVP)* envolve utilizar componentização com React e seus recursos como hooks, props e states, bem como simular chamadas a um servidor fazendo a leitura de um JSON. Foram utilizados HTML, CSS, JavaScript, Node.js e React.js.
 
 ### Figma
 
